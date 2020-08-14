@@ -10,3 +10,8 @@ body, html {
     margin: 3px;
     font-size: 12px;
 }
+.div2 {
+    color: white; background-color: red;
+    margin: 6px;
+    font-size: 12px;
+}
